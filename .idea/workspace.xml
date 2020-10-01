@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be161137-061a-4774-b2d1-d551cb3c070f" name="Default Changelist" comment="" />
+    <list default="true" id="be161137-061a-4774-b2d1-d551cb3c070f" name="Default Changelist" comment="Intial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,12 +149,24 @@
       <updated>1601440643217</updated>
       <workItem from="1601440644259" duration="4093000" />
       <workItem from="1601514923455" duration="181000" />
-      <workItem from="1601515304184" duration="1351000" />
+      <workItem from="1601515304184" duration="1656000" />
     </task>
+    <task id="LOCAL-00001" summary="Intial Commit">
+      <created>1601517209045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601517209045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="644" y="310" key="Github.ShareDialog" timestamp="1601516262848">
@@ -165,10 +177,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="563" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601516320076" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601516850010">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601517217310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601516850010" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601517217310" />
     <state x="568" y="311" key="git4idea.ui.GitStashDialog" timestamp="1601516933593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
